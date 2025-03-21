@@ -54,5 +54,5 @@ financial-doc-summarizer/
 This project is licensed under the MIT License.
 
 ## Contact
-For any issues or suggestions, feel free to open an issue on GitHub or contact [fazlomr3@gmail.com].
+For any issues or suggestions, feel free to open an issue on GitHub or contact [amritamber3112@gmail.com] or [fazlomr3@gmail.com] .
 
