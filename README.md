@@ -1,5 +1,7 @@
 # Financial Document Summarizer
 
+
+
 ## Overview
 The Financial Document Summarizer is a Python-based tool that extracts text from a PDF file and generates a summarized version of its content. This is useful for quickly understanding key points in lengthy financial documents.
 
